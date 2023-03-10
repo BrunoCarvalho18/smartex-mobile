@@ -12,3 +12,7 @@
 - Java
 - Appium
 - Android
+
+## 🔤 **Design Pattern**
+
+- Screen Objects / Page Objects
